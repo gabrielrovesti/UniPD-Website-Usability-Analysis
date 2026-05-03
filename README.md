@@ -9,7 +9,8 @@
 
 This repository contains a comprehensive usability analysis of the **University of Padua website** (unipd.it), conducted as part of the Web Information Management course at the University of Padua. The analysis evaluates the website's effectiveness in providing a seamless user experience for students, faculty, staff, and visitors.
 
-The study focuses on the desktop version of the Italian website, examining various aspects of usability including navigation, information architecture, visual design, and search functionality.
+The study focuses on the desktop version of the "older" Italian website (the one in Drupal, available up to before 03/2026), examining various aspects of usability including navigation, information architecture, visual design, and search functionality.
+> You think they listened to this analysis? I tried browsing the new one and it's a bit of an improvement, but not so much..
 
 ## 🎯 Objectives
 
